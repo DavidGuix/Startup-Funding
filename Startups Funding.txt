@@ -1,0 +1,12 @@
+STARTUP FUNDING
+MEMORIA
+
+
+AUTOR
+David Guix Sánchez
+
+GITHUB REP:
+https://github.com/DavidGuix/Startup-Funding
+
+DATASET
+Crunchbase 2014 encontrado en kaggle
